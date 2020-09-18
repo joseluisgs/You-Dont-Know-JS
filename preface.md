@@ -1,5 +1,7 @@
 # You Don't Know JS Yet - 2nd Edition
 # Preface
+asas
+
 
 Welcome to the 2nd edition of the widely acclaimed *You Don't Know JS* (**YDKJS**) book series: *You Don't Know JS **Yet*** (**YDKJSY**).
 
